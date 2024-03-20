@@ -1,0 +1,7 @@
+[user]
+	name = Blake Fischbach
+	email = fischbach.9@wright.edu
+[core]
+	editor = nano
+[help]
+	autocorrect = 1
